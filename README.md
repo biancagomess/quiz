@@ -1,5 +1,7 @@
-<h1 align="center">  Quiz - Tec ❓❓</h1>
+<h1 align="center">  Quiz - Tec </h1>
 
+
+<img src="https://user-images.githubusercontent.com/81443381/219531778-627e6d36-27b2-43ac-9063-b1797099a15a.png" style="width:100%"/>
 
 <span style="font-style: italic; font-size: 12px;"> 
 É um quiz sobre Html, CSS e JavaScript, desenvolvido em react, vite, com o propósito de ofereecer ao usuário final a possibilidade de testar seus conhecimentos nessas tecnologias.
