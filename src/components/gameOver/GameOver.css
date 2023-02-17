@@ -91,3 +91,64 @@
     font-size: 2em;
     margin-top: 20px;
 }
+
+
+@media (max-width: 380px) {
+
+    .gameOver p {
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+
+    .gameOver_love {
+        flex-direction: column;
+        min-height: 25vh;
+    }
+
+    .drop {
+        width: 60px;
+        height: 60px;
+    }
+
+    .gameOver button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .gameOver {
+        flex-direction: column;
+    }
+
+    .gameOver p {
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+
+    .gameOver_love {
+        min-height: 20vh;
+        gap: 9px;
+    }
+
+    .drop {
+        width: 60px;
+        height: 60px;
+    }
+
+    .gameOver_love span {
+        font-size: 2em;
+    }
+
+    .gameOver button {
+        margin-top: 20%;
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+
+    .gameOver button {
+        width: 30%;
+    }
+}
